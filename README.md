@@ -1,6 +1,6 @@
-# LG-AI_Radar [(Link)](https://dacon.io/competitions/official/236055/overview/description)
+# LG-AI_Radar [(Link)]([https://dacon.io/competitions/official/236055/overview/description](https://dacon.io/competitions/official/236080/leaderboard))
 
-# Public score 3rd 0.77178 | Private score 22th 0.67005
+# Public score 1st 0.77428 | Private score 5th 0.69342
 
 주최 : LG AI Research
 
